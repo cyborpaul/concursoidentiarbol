@@ -1,0 +1,29 @@
+.wthree-slider {
+    background-image: url(../img/cabecera_identiarbol.jpg);
+    background-repeat: repeat-x;
+    animation: slideleft 20000s infinite linear;
+    -webkit-animation: slideleft 20000s infinite linear;
+    background-size: cover;
+    min-height: 20%;
+}
+@media(max-width: 100%) {
+    .wthree-slider {
+        min-height: 20%;
+    }
+
+    .right-space { 
+        padding-right: 7em;
+    }
+}
+#txtBuscarEspecie
+{
+    font-weight:700;
+    font-family:Montserrat,-apple-system,BlinkMacSystemFont;
+}
+
+#txt
+{
+    font-weight:700;
+    font-family:Montserrat,-apple-system,BlinkMacSystemFont;
+    
+}

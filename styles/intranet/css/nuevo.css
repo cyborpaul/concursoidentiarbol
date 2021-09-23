@@ -1,0 +1,20 @@
+ 
+/*============ Paginador =============*/
+
+.paginador a, .pageSelected{
+	color:  #22c20d;
+	border: 1px solid #ddd;
+	padding: 5px;	
+	font-size: 12px;
+	text-align: center;
+	width: 10px;
+}
+.paginador a:hover{
+	background: #ddd;
+}
+.pageSelected{
+	color: #FFF;
+	background:  #22c20d;
+	border: 1px solid  #22c20d;
+}
+ 

@@ -1,0 +1,56 @@
+.logo{
+    width: 50px;
+    height: auto;
+}
+a.nenuCabecera.nav-link.js-scroll-trigger:hover {
+    color: green;
+    font-weight: bolder;
+}
+nav.navegador{
+    margin-bottom:0px; 
+    padding:10px; 
+    background-color:#F8F8F8;
+}
+.card-title {
+    font-weight: bold;
+}
+a.nenuCabecera.nav-link.js-scroll-trigger {
+    color: #388E3C;
+    text-decoration-color: blue;
+    
+}
+
+button.botones{
+    background-color:#388E3C;
+    border-radius:50px 0px 0px 50px;
+}
+
+i.buscar{
+    color: beige;
+}
+input.inputsall{
+    background-color:#F8F8F8;
+    border-radius:0px 50px 50px 0px;
+}
+
+input#txtBuscarEspecie {
+    border-radius: 0px 50px 50px 0px;
+    box-shadow: 2px 2px rgb(197, 197, 197);
+}
+
+button.botonesCompletos{
+    background-color:#388E3C;
+    border-radius:15px 15px 15px  15px;
+}
+
+button.botonesCompletos1{
+    background-color:#388E3C;
+    border-radius:15px 15px 15px  15px;
+    margin-left: 20px;
+}
+
+div.card-body{
+    /*background-color: rgba(149, 211, 110, 0.26);*/
+    border-radius: 15px;
+}
+
